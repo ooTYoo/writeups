@@ -8,7 +8,9 @@ Original Post: 2014-08-07
 ```
 This one... this one should be fun!
 
-Let's take a great Japanese survival-horror game, figure out how it works, make it English, and do some other stuff to it.
+Let's take a great Japanese survival-horror game,
+figure out how it works, make it English,
+and do some other stuff to it.
 ```
 
 ___
