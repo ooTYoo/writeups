@@ -2,6 +2,8 @@
 ##### *A Tale of Reversing an NVIDIA/Namco Arcade Platform*
 Original Post: 2016-08-04
 
+<img src="images/00.png" height="300">
+
 ### Foreward
 This writeup serves as a collection of observations during a recent reverse-engineering effort of the arcade platform known as System N2.
 
