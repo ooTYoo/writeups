@@ -1,7 +1,7 @@
 # Various Writeups/Blog Entries
 ---
 
-### [2013-12-23] [pwning a SafeNET Microdog] (./20131223)
+### [2013-12-23] [pwning a SafeNET Microdog](./20131223)
 ### [2014-10-03] [Hacking 'I Wanna Be The Boshy' Game Saves](./20141003)
 ### [2014-08-07] [Hacking 'Clocktower - The First Fear'](./20140807)
 ### [2015-11-28] [Adding Keyboard Support to a Crazy Taxi Clone](./20151128)
