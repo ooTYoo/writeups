@@ -611,8 +611,8 @@ The implementation here is pretty simple:
 ![](images/28.png)
 
 ### Writing the Emulator
-![](images/30.jpg)
-** WOW MUCH SECURITY - VERY MICRODOG - SUCH HACK**  
+![](images/30.jpg)  
+** MUCH SECURITY - VERY MICRODOG - SUCH HACK WOW **  
 
 Before communicating with a real dongle, it's probably best to first construct a responder in order to better test the packets.
 
