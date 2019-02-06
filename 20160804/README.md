@@ -267,7 +267,7 @@ From this point, there are a few possibilities:
 
 - Make it easier for operators / technicians to change hardware while keeping the game operational.
 - Find an N2 Satellite terminal to denote any differences.
-  - UPDATE: The N2 Satellite terminal uses the same hardware profile with the exception of a 6800 GPU.
+  - UPDATE: The N2 Satellite terminal uses the same hardware profile with the exception that the GPU is plugged into a different port address which changes the system profile.
 - Emulation of the software on a native system (modern Linux) or VM.
 - Lower level emulation in about one millennia once MAME can actually support x86 emulation.
 
