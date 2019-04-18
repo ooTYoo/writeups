@@ -6,4 +6,5 @@
 ### [2014-08-07] [Hacking 'Clocktower - The First Fear'](./20140807)
 ### [2015-11-28] [Adding Keyboard Support to a Crazy Taxi Clone](./20151128)
 ### [2016-08-04] [A Tale of Reversing an NVIDIA Arcade Platform](./20160804)
+### [2019-04-17] [Pushing The Envelope](./20190417)
 ### TODO: Add additional writeups from 2013-2017
