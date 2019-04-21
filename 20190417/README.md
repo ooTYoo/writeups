@@ -226,9 +226,11 @@ So realistically... what do we have?
   * We have a dll - we even have a 64 bit dll but the API is buggy and the vendor advises using the 32 bit version. As a result, we'll use the 32 bit vendor API dll with Python Ctypes and put legit dongle interaction in our unpacker!
 
   In addition to the hardcoded key and password for the dongle - the general area they reside in has some other interesting values:
+  
 ![](images/011.png)
 
   Opening our original exe in CFFExplorer - some of these values start popping up:
+  
 ![](images/012.png)
 
 From this, we can start to construct what exists in this area, and what values will be important
@@ -265,7 +267,7 @@ binding I created against "LC.dll" (pylc). The password and developer ID can
 be read directly from the executable. As a result, no additional configuration
 is required.
 
-Refer to "senselock_data.py" for more information.
+Refer to "lcsh.py" for more information.
 
 #### Step 2 - Decrypt all CODE sections in place.
 Next, we have to iterate each section and determine if it is executable.
