@@ -1,9 +1,9 @@
-
-<img src="images/00.jpg" height="300">
-
 # pwning a SafeNET Microdog
 ##### *An exercise in hardware security module analysis*
 Original Post: 2013-12-23
+
+<img src="images/00.jpg" height="300">
+
 
 Note: The full code can be found at the following repository: https://github.com/batteryshark/microdoge/
 
