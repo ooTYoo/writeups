@@ -1,9 +1,9 @@
 
-<img src="images/01.png" height="300">
-
 # Hacking 'Clocktower - The First Fear'
 ##### *Script Interpreter Analysis for the 21st century*
 Original Post: 2014-08-07
+
+<img src="images/01.png" height="300">
 
 ```
 This one... this one should be fun!
